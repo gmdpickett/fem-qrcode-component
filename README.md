@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://mikepickett.dev/fem-qrcode-component/](https://mikepickett.dev/fem-qrcode-component/)
+- [Frontend Mentor Solution](https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-component-using-html-css-flexbox-QfskAdajiW)
+- [MikePickett.dev Link](https://mikepickett.dev/fem-qrcode-component/)
 
 ## My process
 
